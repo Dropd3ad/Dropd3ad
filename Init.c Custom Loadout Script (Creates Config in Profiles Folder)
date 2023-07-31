@@ -1,6 +1,4 @@
 //* Script: Customizable spawn loadouts for regular and donator players
-//* Author: Wardog
-//* Donate: https://wrdg.net/donate
 //*
 //* Notes: Creates a directory in the Server Profile folder called SpawnLoadout. You can change these files in
 //* in real time, without restarting the server to take effect.
