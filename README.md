@@ -58,14 +58,14 @@ Contributions are what make the open source community an amazing place. Any cont
 
 <hr />
 
-## License
+### License
 
-<!-- Mention your project license here and also link to that file -->
+``` Mention your project license here and also link to that file -->
 
     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
                     Version 2, December 2004
 
- <-Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
+ <--Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
 
  Everyone is permitted to copy and distribute verbatim or modified
  copies of this license document, and changing it is allowed as long
@@ -74,8 +74,8 @@ Contributions are what make the open source community an amazing place. Any cont
     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
    TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
-0. You just DO WHAT THE FUCK YOU WANT TO.  ->
-
+0. You just DO WHAT THE FUCK YOU WANT TO.  
+```
 Copyright Â© 2024 -  License.
 
 <hr />
