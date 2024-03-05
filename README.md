@@ -60,7 +60,7 @@ Contributions are what make the open source community an amazing place. Any cont
 
 ### 🔑 License
 
- <-- Mention your project license here and also link to that file -->
+See [LICENSE]([C:\Users\Chaos\OneDrive\Documents\GitHub\Best-README-Template\LICENSE.txt](http://www.wtfpl.net/)) for more info
 ```
     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
                     Version 2, December 2004
