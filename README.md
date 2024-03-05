@@ -58,7 +58,7 @@ Contributions are what make the open source community an amazing place. Any cont
 
 <hr />
 
-### License
+### 🔑 License
 
  <-- Mention your project license here and also link to that file -->
 ```
@@ -76,7 +76,7 @@ Contributions are what make the open source community an amazing place. Any cont
 
 0. You just DO WHAT THE FUCK YOU WANT TO.  
 ```
-Copyright Â© 2024 -  License.
+Copyright © 2024 -  License.
 
 <hr />
 
@@ -85,7 +85,7 @@ Copyright Â© 2024 -  License.
     <img src="https://cdn.discordapp.com/attachments/1195620869121257502/1213937010981740634/codelife.gif?ex=65f749f1&is=65e4d4f1&hm=741d94397b8076ef4765eeb002bfc09fc36ce6a527e66962e3d24a87ff5cff54&" alt="Code Life();" width="250" height="125">
   </a>`
 
-`<hr />`
+<hr />
 
 <a href="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month?repo_id=41986369" target="https://github.com/Dropd3ad" style="display: block" align="center">
   <picture>
