@@ -12,9 +12,9 @@
 <p  align="center">BREAKING DAYZ ONE MOD AT A TIME</p>
 
 <p align="center">
-Â· <a  href="https://discord.gg/9FwYsXeR">DISCORD</a>
-Â· <a  href="https://www.youtube.com/channel/UCO5R9Mk8Bf5_9MkS4UQUqOw">YOUTUBE</a>
-Â· <a  href=""></a>
+ <a  href="https://discord.gg/9FwYsXeR">DISCORD</a>
+ <a  href="https://www.youtube.com/channel/UCO5R9Mk8Bf5_9MkS4UQUqOw">YOUTUBE</a>
+ <a  href=""></a>
   </p>
 
 **My Stats**
@@ -60,8 +60,8 @@ Contributions are what make the open source community an amazing place. Any cont
 
 ### License
 
-``` Mention your project license here and also link to that file -->
-
+ <-- Mention your project license here and also link to that file -->
+```
     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
                     Version 2, December 2004
 
