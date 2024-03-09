@@ -2,6 +2,18 @@
   <br />
    <a  href="https://github.com/Dropd3ad/Dropd3ad"><img src="https://cdn.discordapp.com/attachments/1195620869121257502/1213937010981740634/codelife.gif?ex=65f749f1&is=65e4d4f1&hm=741d94397b8076ef4765eeb002bfc09fc36ce6a527e66962e3d24a87ff5cff54&" alt="DROPD3ADS CODING DEVELOPMENT" width="200" /></a>
   <br />
+
+<p align="center">
+  <strong><code>DROPD3ADS Dayz Modz + CODE DEVELOPMENT (Developer/Modder/Server-Admin) </code></strong>
+  <br>
+  <br>
+  <strong>This person is just another nerd who gets lost in code daily down each Rabit Hole Life sends my way. Every project is planned, developed and tested as thoroughly as possible from the ground up. 
+  I use the skills Gained through years of Modding and Coding to Create and Test All My Code MYSELF.</strong>
+</p>
+
+
+
+
 <p align="center">
  <strong>DROPD3ADS Dayz Modz + CODE DEVELOPMENT
 </p>
@@ -101,7 +113,7 @@ Copyright © 2024 -  License.
 <p align="center">
   <a href="https://github.com/Dropd3ad/Dropd3ad">
     <img src="https://cdn.discordapp.com/attachments/1195620869121257502/1213937010981740634/codelife.gif?ex=65f749f1&is=65e4d4f1&hm=741d94397b8076ef4765eeb002bfc09fc36ce6a527e66962e3d24a87ff5cff54&" alt="Code Life();" width="250" height="125">
-  </a>`
+  </a>
 
 <hr />
 
@@ -113,4 +125,3 @@ Copyright © 2024 -  License.
 </a>
 
 <!-- >_**NOTE:** Notes template._ -->
-
