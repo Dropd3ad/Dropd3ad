@@ -2,9 +2,9 @@
   <br />
    <a  href="https://github.com/Dropd3ad/Dropd3ad"><img src="https://cdn.discordapp.com/attachments/1195620869121257502/1213937010981740634/codelife.gif?ex=65f749f1&is=65e4d4f1&hm=741d94397b8076ef4765eeb002bfc09fc36ce6a527e66962e3d24a87ff5cff54&" alt="DROPD3ADS CODING DEVELOPMENT" width="200" /></a>
   <br />
-
-  DROPD3ADS Dayz Modz + CODE DEVELOPMENT
-
+<p align="center">
+ <strong>DROPD3ADS Dayz Modz + CODE DEVELOPMENT
+</p>
 
 </h3>
 
@@ -29,26 +29,40 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-<!-- CONTRIBUTING -->
+<!--CONTRIBUTING-->
 
 Contributions are what make the Open Source Community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
+```
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
+```
 <hr />
 
-Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+#
+
+### 🛠️ Tech Stack
+   <p align="center">
+<img alt="C-Original" title="C-Original" width="40px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img alt="C-Plus-Plus" title="C-Plus-Plus" width="40px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img alt="C-Sharp" title="C-Sharp" width="40px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img alt="DotNet-Original" title="DotNet-Original" width="40px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
+<img alt="DotNet-Core" title="DotNet-Core" width="40px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+<img alt="Python" title="Python" width="40px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img alt="Markdown" title="Markdown" width="40px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
+<img alt="VisualStudio" title="VisualStudio" width="40px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+<img alt="VS-Code" title="VS-Code" width="40px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img alt="Git" title="Git" width="40px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img alt="PostgreSQL" title="PostgreSQL" width="40px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img alt="MS-SQL" title="MS-SQL" width="40px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+<img alt="javascript-original" title="javascript-original" width="40px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img alt="powershell-original" title="powershell-original" width="40px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" />
+<img alt="Blender" title="Blender" width="40px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
+<img alt="Gimp" title="Gimp" width="40px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
+<img alt="Photoshop" title="Photoshop" width="40px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+   </p>
 
 ### True-Open-Source
 
@@ -56,13 +70,13 @@ Tech Stack
 
 **_"Talk is Cheap, Show me the code."_** _- Linus Torvalds_
 
-Contributions are what make the open source community an amazing place. Any contributions you make are **greatly appreciated**.
+## Contributions are what make the open source community an amazing place. Any contributions you make are **greatly appreciated**.
 
 <hr />
 
 
 
-See ## 🔑 License
+## See ### 🔑 License
 
 See [LICENSE] [http://www.wtfpl.net/] for more info
 ```
@@ -99,3 +113,4 @@ Copyright © 2024 -  License.
 </a>
 
 <!-- >_**NOTE:** Notes template._ -->
+
