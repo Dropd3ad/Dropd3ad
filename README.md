@@ -88,7 +88,7 @@ Contributions are what make the Open Source Community such an amazing place to b
 
 
 
-## See ### 🔑 License
+## See 🔑 License
 
 See [LICENSE] [http://www.wtfpl.net/] for more info
 ```
