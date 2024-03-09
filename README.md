@@ -41,11 +41,11 @@
   
   # My Stats
 <p align="center">
+  
 [![](http://github-readme-streak-stats.herokuapp.com?user=Dropd3ad&theme=tokyonight "MY Stats")](https://git.io/streak-stats)
-</p>
-<p align="center">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dropd3ad&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats "Most Used")
-</p>
+  
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
