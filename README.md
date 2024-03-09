@@ -3,12 +3,12 @@
    <a  href="https://github.com/Dropd3ad/Dropd3ad"><img src="https://cdn.discordapp.com/attachments/1195620869121257502/1213937010981740634/codelife.gif?ex=65f749f1&is=65e4d4f1&hm=741d94397b8076ef4765eeb002bfc09fc36ce6a527e66962e3d24a87ff5cff54&" alt="DROPD3ADS CODING DEVELOPMENT" width="200" /></a>
   <br />
 
+
 <p align="center">
   <strong><code>DROPD3ADS Dayz Modz + CODE DEVELOPMENT (Developer/Modder/Server-Admin) </code></strong>
   <br>
   <br>
-  <strong>This person is just another nerd who gets lost in code daily down each Rabit Hole Life sends my way. Every project is planned, developed and tested as thoroughly as possible from the ground up. 
-  I use the skills Gained through years of Modding and Coding to Create and Test All My Code MYSELF.</strong>
+  <strong>This person is just another nerd who gets lost in code daily down each Rabit Hole Life sends my way. Every project is planned, developed and tested as thoroughly as possible from the ground up. I use the skills Gained through years of Modding and Coding to Create + Test All My Code MYSELF.</strong>
 </p>
 
 
@@ -17,6 +17,12 @@
 <p align="center">
  <strong>DROPD3ADS Dayz Modz + CODE DEVELOPMENT
 </p>
+  <p align="center">
+      <a href="https://discord.com/invite/pAEG4axbZY">
+         <img alt="Discord Join" title="Join the Discord Server" src="https://img.shields.io/discord/1102440447835648124?color=5865F2&style=for-the-badge&labelColor=5e6af0&logo=discord&logoColor=white&label=Join"/></a>
+      <a href="https://www.youtube.com/@DROPD3AD9969">
+         <img alt="youtube views" title="Total YouTube views" src="https://img.shields.io/youtube/channel/views/UCYFZ9NvJHMjaiyW9GGYvijQ?color=%23E1AD0E&logoColor=white&style=for-the-badge&labelColor=C79600&logo=youtube"/></a> 
+   </p>
 
 </h3>
 
@@ -31,7 +37,7 @@
   </p>
 <h3 align="center">
 
- *My Stats*
+  # My Stats
 
 [![](http://github-readme-streak-stats.herokuapp.com?user=Dropd3ad&theme=tokyonight "MY Stats")](https://git.io/streak-stats)
 
@@ -43,7 +49,7 @@
 
 <!--CONTRIBUTING-->
 
-Contributions are what make the Open Source Community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+# Contributions are what make the Open Source Community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 ```
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
@@ -56,6 +62,7 @@ Contributions are what make the Open Source Community such an amazing place to b
 #
 
 ### 🛠️ Tech Stack
+
    <p align="center">
 <img alt="C-Original" title="C-Original" width="40px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img alt="C-Plus-Plus" title="C-Plus-Plus" width="40px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
@@ -88,9 +95,9 @@ Contributions are what make the Open Source Community such an amazing place to b
 
 
 
-## See 🔑 License
+## See ### 🔑 License
 
-See [http://www.wtfpl.net/] for more info
+See [LICENSE] [http://www.wtfpl.net/] for more info
 ```
     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
                     Version 2, December 2004
