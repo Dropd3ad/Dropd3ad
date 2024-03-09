@@ -2,7 +2,7 @@
   <br />
    <a  href="https://github.com/Dropd3ad/Dropd3ad"><img src="https://cdn.discordapp.com/attachments/1195620869121257502/1213937010981740634/codelife.gif?ex=65f749f1&is=65e4d4f1&hm=741d94397b8076ef4765eeb002bfc09fc36ce6a527e66962e3d24a87ff5cff54&" alt="DROPD3ADS CODING DEVELOPMENT" width="200" /></a>
   <br />
-**DROPD3ADS Dayz Modz + CODE DEVELOPMENT**
+###DROPD3ADS Dayz Modz + CODE DEVELOPMENT
   <br />
 
 </h3>
@@ -58,7 +58,7 @@ Contributions are what make the open source community an amazing place. Any cont
 
 <hr />
 
-### 🔑 License
+
 
 See ## 🔑 License
 
@@ -89,10 +89,10 @@ Copyright © 2024 -  License.
 
 <hr />
 
-<a href="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month?repo_id=41986369" target="https://github.com/Dropd3ad" style="display: block" align="center">
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=133103078" target="_blank" style="display: block" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=dark" width="721" height="auto">
-    <img alt="Lines of Code Changes of pingcap/tidb" src="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=dark" width="721" height="auto">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=133103078&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @Dropd3ad" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=133103078&image_size=auto&color_scheme=light" width="771" height="auto">
   </picture>
 </a>
 
