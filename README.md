@@ -98,7 +98,7 @@
 
 
 
-## See ### 🔑 License
+## See 🔑 License
 
 See [LICENSE] [http://www.wtfpl.net/] for more info
 ```
