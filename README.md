@@ -20,7 +20,7 @@
 
    <p align="center">
       <a href="https://discord.com/invite/pAEG4axbZY">
-         <img alt="Discord Join" title="Join the Discord Server" src="https://img.shields.io/discord/pAEG4axbZY?color=5865F2&style=for-the-badge&labelColor=5e6af0&logo=discord&logoColor=white&label=Join"/></a>
+         <img alt="Discord Join" title="Join the Discord Server" src="https://img.shields.io/discord/1195551702791770165?color=5865F2&style=for-the-badge&labelColor=5e6af0&logo=discord&logoColor=white&label=Join"/></a>
       <a href="https://www.youtube.com/@DROPD3AD9969">
          <img alt="youtube views" title="Total YouTube views" src="https://img.shields.io/youtube/channel/views/@DROPD3AD9969?color=%23E1AD0E&logoColor=white&style=for-the-badge&labelColor=C79600&logo=youtube"/></a> 
    </p>
