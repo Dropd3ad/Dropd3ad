@@ -92,7 +92,15 @@
 
 **_"Talk is Cheap, Show me the code."_** _- Linus Torvalds_
 
-## Contributions are what make the open source community an amazing place. Any contributions you make are **greatly appreciated**.
+<hr />
+
+#
+
+<p align="center">
+  <a href="https://github.com/Dropd3ad/">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dropd3ad&theme=monokai" />
+  </a>
+</p>
 
 <hr />
 
