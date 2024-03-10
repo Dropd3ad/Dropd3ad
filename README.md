@@ -102,11 +102,11 @@
 
 <hr />
 
-
+#
 
 ## See 🔑 License
 
-See [LICENSE] [http://www.wtfpl.net/] for more info
+See (LICENSE) [http://www.wtfpl.net/] for more info
 ```
     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
                     Version 2, December 2004
