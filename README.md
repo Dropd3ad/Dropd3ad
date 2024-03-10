@@ -1,3 +1,7 @@
+<p align="center">
+ <strong>DROPD3ADS Dayz Modz + CODE DEVELOPMENT
+</p>
+   
 #
 
 <h3 align="center">
@@ -12,11 +16,6 @@
   <br>
   <br>
   <strong>This person is just another nerd who gets lost in code daily down each Rabit Hole Life sends my way. Every project is planned, developed and tested as thoroughly as possible from the ground up. I use the skills Gained through years of Modding and Coding to Create + Test All My Code MYSELF.</strong>
-</p>
-
-
-<p align="center">
- <strong>DROPD3ADS Dayz Modz + CODE DEVELOPMENT
 </p>
 
    <p align="center">
