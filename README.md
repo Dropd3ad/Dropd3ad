@@ -42,7 +42,7 @@
   
 [![](http://github-readme-streak-stats.herokuapp.com?user=Dropd3ad&theme=tokyonight "MY Stats")](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dropd3ad&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats "Most Used")
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dropd3ad&layout=compact&theme=tokyonight-friendly-dark)](https://github.com/anuraghazra/github-readme-stats "Most Used")
   
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -106,7 +106,8 @@
 
 ## See 🔑 License
 
-See (LICENSE) [http://www.wtfpl.net/] for more info
+# See [LICENSE] (http://www.wtfpl.net/) for more info 
+
 ```
     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
                     Version 2, December 2004
@@ -141,10 +142,17 @@ Copyright © 2024 -  License.
   </picture>
 </a>
 
+<div align="center">
+<div class="tenor-gif-embed" data-postid="19687446" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/computer-code-gif-19687446">Computer Code GIF</a>from <a href="https://tenor.com/search/computer-gifs">Computer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+</div>
+
 ##
 
 **NOTE:**
 <a href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=3320">Buy DAYZ Servers From GTXGaming</a>
 
+
 <!-- >_**NOTE:** Notes template._ -->
+
+
 
