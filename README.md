@@ -129,7 +129,7 @@ Copyright © 2024 -  License.
 
 <h3 align="center">
   <br />
-   <a  href="https://github.com/Dropd3ad/Dropd3ad"><img src="[https://cdn.discordapp.com/attachments/1195620869121257502/1213937010981740634/codelife.gif?ex=65f749f1&is=65e4d4f1&hm=741d94397b8076ef4765eeb002bfc09fc36ce6a527e66962e3d24a87ff5cff54&](https://user-images.githubusercontent.com/74038190/212897597-fd4c1add-ec1c-4669-9a8d-c37aaaf19044.gif)" alt="DROPD3ADS CODING DEVELOPMENT" width="350" /></a>
+   <a  href="https://github.com/Dropd3ad/Dropd3ad"><img src="(https://user-images.githubusercontent.com/74038190/212897597-fd4c1add-ec1c-4669-9a8d-c37aaaf19044.gif)" alt="DROPD3ADS CODING DEVELOPMENT" width="350" /></a>
   <br />
 
 <hr />
