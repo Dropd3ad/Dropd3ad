@@ -132,7 +132,7 @@ Copyright © 2024 -  License.
    <a  href="https://github.com/Dropd3ad/Dropd3ad"><img src="(https://user-images.githubusercontent.com/74038190/212897597-fd4c1add-ec1c-4669-9a8d-c37aaaf19044.gif)" alt="DROPD3ADS CODING DEVELOPMENT" width="350" /></a>
   <br />
 
-<hr />
+#
 
 <a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=133103078&activity_type=all" target="@Dropd3ad" style="display: block" align="center">
   <picture>
