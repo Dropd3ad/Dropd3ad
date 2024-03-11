@@ -64,7 +64,7 @@
 
 ### 🛠️ Tech Stack
 
-   <p align="center">
+ <p align="center">
 <img alt="C-Original" title="C-Original" width="40px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img alt="C-Plus-Plus" title="C-Plus-Plus" width="40px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img alt="C-Sharp" title="C-Sharp" width="40px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
@@ -82,7 +82,7 @@
 <img alt="Blender" title="Blender" width="40px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
 <img alt="Gimp" title="Gimp" width="40px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
 <img alt="Photoshop" title="Photoshop" width="40px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-   </p>
+ </p>
 
 ### True-Open-Source
 
@@ -128,7 +128,7 @@ Copyright © 2024 -  License.
 
 <h3 align="center">
   <br />
-   <a  href="https://github.com/Dropd3ad/Dropd3ad"><img src="https://cdn.discordapp.com/attachments/1195620869121257502/1213937010981740634/codelife.gif?ex=65f749f1&is=65e4d4f1&hm=741d94397b8076ef4765eeb002bfc09fc36ce6a527e66962e3d24a87ff5cff54&" alt="DROPD3ADS CODING DEVELOPMENT" width="350" /></a>
+   <a  href="https://github.com/Dropd3ad/Dropd3ad"><img src="[https://cdn.discordapp.com/[attachments/1195620869121257502/1213937010981740634/codelife.gif?ex=65f749f1&is=65e4d4f1&hm=741d94397b8076ef4765eeb002bfc09fc36ce6a527e66962e3d24a87ff5cff54&](https://discord.com/channels/890447724661604383/1122833395475566612/1216586328473600041](https://discord.com/channels/890447724661604383/1122833395475566612/1216586328473600041))" alt="DROPD3ADS CODING DEVELOPMENT" width="350" /></a>
   <br />
   </a>
 
