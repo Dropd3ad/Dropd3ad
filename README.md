@@ -42,7 +42,7 @@
   
 [![](http://github-readme-streak-stats.herokuapp.com?user=Dropd3ad&theme=tokyonight "MY Stats")](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dropd3ad&layout=compact&theme=tokyonight-friendly-tokyonight)](https://github.com/anuraghazra/github-readme-stats "Most Used")
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dropd3ad&layout=compact&theme=tokyonight-friendly-dark)](https://github.com/anuraghazra/github-readme-stats "Most Used")
   
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
