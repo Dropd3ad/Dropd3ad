@@ -140,10 +140,12 @@ Copyright © 2024 -  License.
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=133103078&image_size=auto&color_scheme=dark" width="771" height="auto">
     <img alt="Dashboard stats of @Dropd3ad" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=133103078&image_size=auto&color_scheme=dark" width="771" height="auto">
   </picture>
-</a>
+ </a>
+
+<hr />
 
 <div align="center">
-<img src="[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://private-user-images.githubusercontent.com/74038190/240825379-0db32290-c193-4b32-95dc-413ce9e446a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTAxODU4NzAsIm5iZiI6MTcxMDE4NTU3MCwicGF0aCI6Ii83NDAzODE5MC8yNDA4MjUzNzktMGRiMzIyOTAtYzE5My00YjMyLTk1ZGMtNDEzY2U5ZTQ0NmE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzExVDE5MzI1MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTgxNGVkZTg2ZjE2ZTljMmQ2ZmE4YzFkZDIzMTZjMDg0MzNmNzE4YmMxZjhjNmQ1OWM2ZDc3NDQ3NDY0YzAxNzkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.5hceazkgV8u0UTpsAjlUkbulMea8fdMx-CiS1J2RcEU)https://private-user-images.githubusercontent.com/74038190/240825379-0db32290-c193-4b32-95dc-413ce9e446a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTAxODU4NzAsIm5iZiI6MTcxMDE4NTU3MCwicGF0aCI6Ii83NDAzODE5MC8yNDA4MjUzNzktMGRiMzIyOTAtYzE5My00YjMyLTk1ZGMtNDEzY2U5ZTQ0NmE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzExVDE5MzI1MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTgxNGVkZTg2ZjE2ZTljMmQ2ZmE4YzFkZDIzMTZjMDg0MzNmNzE4YmMxZjhjNmQ1OWM2ZDc3NDQ3NDY0YzAxNzkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.5hceazkgV8u0UTpsAjlUkbulMea8fdMx-CiS1J2RcEU" width="40" height="40" />
+<img src="(https://tenor.com/view/computer-code-gif-19687446)" width="40" height="40" />
 </div>
 
 ##
