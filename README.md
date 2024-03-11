@@ -128,7 +128,7 @@ Copyright © 2024 -  License.
 
 <h3 align="center">
   <br />
-   <a  href="https://github.com/Dropd3ad/Dropd3ad"><img src="https://discord.com/channels/890447724661604383/1122833395475566612/1216586328473600041" alt="DROPD3ADS CODING DEVELOPMENT" width="350" /></a>
+   <a  href="https://github.com/Dropd3ad/Dropd3ad"><img src="[https://discord.com/channels/890447724661604383/1122833395475566612/1216586328473600041](https://tenor.com/view/computer-code-gif-19687446)" alt="DROPD3ADS CODING DEVELOPMENT" width="350" /></a>
   <br />
   </a>
 
