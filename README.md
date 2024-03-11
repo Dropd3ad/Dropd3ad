@@ -128,7 +128,7 @@ Copyright © 2024 -  License.
 
 <p align="center">
  
-   ![Code Life]([http://url/to/img.png](https://tenor.com/view/computer-code-gif-19687446)
+   ![Code Life]([http://url/to/img.png]([https://tenor.com/view/computer-code-gif-19687446](https://discord.com/channels/890447724661604383/1122833395475566612/1216586328473600041)
    
   </a>
 
