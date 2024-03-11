@@ -127,8 +127,9 @@ Copyright © 2024 -  License.
 <hr />
 
 <p align="center">
-  <a href="https://github.com/Dropd3ad/Dropd3ad">
+ 
    ![Code Life]([http://url/to/img.png](https://tenor.com/view/computer-code-gif-19687446)
+   
   </a>
 
 <hr />
