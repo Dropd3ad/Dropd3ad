@@ -106,7 +106,8 @@
 
 ## See 🔑 License
 
-# See [LICENSE] (http://www.wtfpl.net/) for more info 
+# See [LICENSE](http://www.wtfpl.net/) for more info 
+<hr />
 
 ```
     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
@@ -128,6 +129,7 @@ Copyright © 2024 -  License.
 #
 
 
+<hr />
 
 <a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=133103078&activity_type=all" target="@Dropd3ad" style="display: block" align="center">
   <picture>
