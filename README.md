@@ -129,8 +129,8 @@ Copyright © 2024 -  License.
 
 ##
 
+#
 
-<hr />
 
 <a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=133103078&activity_type=all" target="@Dropd3ad" style="display: block" align="center">
   <picture>
@@ -139,10 +139,32 @@ Copyright © 2024 -  License.
   </picture>
 </a>
 
+
 ##
+
 
 > [!TIP]
 ><a href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=3320">Buy DAYZ Servers From GTXGaming</a>
+
+
+
+
+            __ __ __    ________  ___   ___   ________      ______   __  __   __     _________  
+           /_//_//_/\  /_______/\/___/\/__/\ /_______/\    /_____/\ /_/\/_/\ /_/\   /________/\ 
+           \:\\:\\:\ \ \__.::._\/\::.\ \\ \ \\__.::._\/    \:::__\/ \:\ \:\ \\:\ \  \__.::.__\/ 
+            \:\\:\\:\ \   \::\ \  \:: \/_) \ \  \::\ \      \:\ \  __\:\ \:\ \\:\ \    \::\ \   
+             \:\\:\\:\ \  _\::\ \__\:. __  ( (  _\::\ \__    \:\ \/_/\\:\ \:\ \\:\ \____\::\ \  
+              \:\\:\\:\ \/__\::\__/\\: \ )  \ \/__\::\__/\    \:\_\ \ \\:\_\:\ \\:\/___/\\::\ \ 
+               \_______\/\________\/ \__\/\__\/\________\/     \_____\/ \_____\/ \_____\/ \__\/ 
+
+
+
+
+
+
+
+
+
 
 
 <!-- >_**NOTE:** Notes template._ -->
