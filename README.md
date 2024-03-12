@@ -83,6 +83,7 @@
 <img alt="Gimp" title="Gimp" width="40px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
 <img alt="Photoshop" title="Photoshop" width="40px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
  </p>
+#
 
 ### True-Open-Source
 
@@ -126,7 +127,7 @@
 ```
 Copyright © 2024 -  License.
 
-#
+##
 
 
 <hr />
