@@ -1,5 +1,5 @@
 <p align="center">
- <strong>DROPD3ADS Dayz Modz + CODE DEVELOPMENT
+ <strong>DROPD3ADS Dayz Modz + CODE DEVELOPMENT ©
 </p>
    
 #
@@ -12,10 +12,10 @@
 #
   
 <p align="center">
-  <strong><code>DROPD3ADS Dayz Modz + CODE DEVELOPMENT (Developer/Modder/Server-Admin) </code></strong>
+  <strong><code>DROPD3ADS Dayz Modz + CODE DEVELOPMENT © (Developer/Modder/Server-Admin) </code></strong>
   <br>
   <br>
-  <strong>This person is just another nerd who gets lost in code daily down each Rabit Hole Life sends my way. Every project is planned, developed and tested as thoroughly as possible from the ground up. I use the skills Gained through years of Modding and Coding to Create + Test All My Code MYSELF.</strong>
+  <strong>This fool is just another nerd who gets lost in code daily. Every project is planned, developed and tested as thoroughly as possible from the ground up. I use the skills Gained through years of Modding and Coding to Create + Test All My Code MYSELF. One Man Army, Ready For Warfare.</strong>
 </p>
 
    <p align="center">
