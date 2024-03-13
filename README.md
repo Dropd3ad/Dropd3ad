@@ -131,6 +131,8 @@
 Copyright © 2024 -  License.
 
 ##
+> [!CAUTION]
+> Making Your Own Code Can Be Very Addicting. Use With Caution ⚠. 
 
 #
 
@@ -166,10 +168,7 @@ Copyright © 2024 -  License.
 
 
 
-
-> [!CAUTION]
-> Making Your Own Code Can Be Very Addicting. Use With Caution ⚠. 
-
+<hr />
 
 
 
