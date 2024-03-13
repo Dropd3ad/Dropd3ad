@@ -87,6 +87,7 @@
 <hr />
 
 <p align="center">
+ 
 ### True-Open-Source
 
 **_"In real open source, you have the right to control your own destiny."_** _- Linus Torvalds_
@@ -166,7 +167,8 @@ Copyright © 2024 -  License.
 
 
 
-
+> [!CAUTION]
+> Making Your Own Code Can Be Very Addicting. Use With Caution ⚠. 
 
 
 
