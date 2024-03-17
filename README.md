@@ -37,7 +37,7 @@
   
 <h2 align="center"> 
  
- - My Stats  
+ My Stats  
   
 <p align="center">
   
