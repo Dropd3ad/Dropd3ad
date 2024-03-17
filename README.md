@@ -36,7 +36,7 @@
   </p>
   
 <h3 align="center"> 
- My Stats  
+ *My Stats*  
   
 <p align="center">
   
@@ -132,7 +132,8 @@ Copyright © 2024 -  License.
 
 ##
 > [!CAUTION]
-> Making Your Own Code Can Be Very Addicting. Create With Caution ⚠. 
+> Making Your Own Code Can Be Very Addicting. Create With Caution ⚠. \
+
 #
 
 
@@ -165,10 +166,13 @@ Copyright © 2024 -  License.
                \_______\/\________\/ \__\/\__\/\________\/     \_____\/ \_____\/ \_____\/ \__\/ 
 
 
-
-
-
 <hr />
+
+
+
+
+
+
 
 
 
