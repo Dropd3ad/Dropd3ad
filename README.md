@@ -46,7 +46,7 @@
 ##
   
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://[media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://cdn.discordapp.com/attachments/1220635415405531198/1220765792862343260/codelife.gif?ex=661021bd&is=65fdacbd&hm=1d6419de11f47f4ee6059a6b209d5d118c516c2c2baf5872c561bfb5c1865038&)" width="600" height="300"/>
 </div>
 
 <!--CONTRIBUTING-->
