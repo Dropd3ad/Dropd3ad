@@ -149,7 +149,7 @@ Copyright © 2024 -  License.
     <source media="(prefers-color-scheme:dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=133103078&activity_type=all&image_size=auto&color_scheme=dark" width="497.5" height="auto">
     <img alt="@Dropd3ad's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=133103078&activity_type=all&image_size=auto&color_scheme=light" width="497.5" height="auto">
   </picture>
-</a>
+
 
 
 ##
