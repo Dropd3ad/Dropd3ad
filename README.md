@@ -1,6 +1,5 @@
 <p align="center">
  <strong>DROPD3ADS Dayz Modz + CODE DEVELOPMENT ©
-https://img.shields.io/badge/status-active-success.svg?style=for-the-badge
 </p>  
   
  <p align="center">
