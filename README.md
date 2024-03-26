@@ -60,8 +60,8 @@
 
 <!--CONTRIBUTING-->
 
-<strong><code>
-<strong><code> **Contributions are what make the Open Source Community such an amazing place to be learn, inspire, and create. Any contributions you make are greatly appreciated**.</code></strong>
+
+<strong><code>**Contributions are what make the Open Source Community such an amazing place to be learn, inspire, and create. Any contributions you make are greatly appreciated**.</code></strong>
 
 ```
 1. Fork the Project
