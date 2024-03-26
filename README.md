@@ -1,10 +1,10 @@
 <p align="center">
  <strong>DROPD3ADS Dayz Modz + CODE DEVELOPMENT ©
-</p>  
-  
-![Alt Text](https://cdn.discordapp.com/attachments/1220635415405531198/1220766752451854406/MOSHED-2024-2-20-5-41-23.gif?ex=661022a2&is=65fdada2&hm=9b4b4feffe963a9f99adb3529b607f3d3cbcbac12d40102f531328b0510f1dd2&)
-<br>
+</p>   
+
+<p align="center">
 <img src="https://cdn.discordapp.com/attachments/1220635415405531198/1220766752451854406/MOSHED-2024-2-20-5-41-23.gif?ex=661022a2&is=65fdada2&hm=9b4b4feffe963a9f99adb3529b607f3d3cbcbac12d40102f531328b0510f1dd2&" width="300" height="350" />
+</p>
 
  <p align="center">
   <br />
