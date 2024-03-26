@@ -60,9 +60,7 @@
 
 <!--CONTRIBUTING-->
 
-<p align="center">
 # Contributions are what make the Open Source Community such an amazing place to be learn, inspire, and create. **Any contributions you make are greatly appreciated**.
-</p>
 
 ```
 1. Fork the Project
