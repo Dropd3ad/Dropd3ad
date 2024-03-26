@@ -3,10 +3,8 @@
 </p>   
 
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/1220635415405531198/1221032869514706945/scrolling-code.gif?ex=66111a79&is=65fea579&hm=c3440ef84bc7285cbea230181af2a791ef3b9cadec7cc64583023985b4c1048c&" width="300" height="350" />
+<img src="https://cdn.discordapp.com/attachments/1220635415405531198/1221032869514706945/scrolling-code.gif?ex=66111a79&is=65fea579&hm=c3440ef84bc7285cbea230181af2a791ef3b9cadec7cc64583023985b4c1048c&" width="500" height="300" />
 </p>
-
-<hr />
 
  <p align="center">
   <br />
