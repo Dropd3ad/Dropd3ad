@@ -123,7 +123,7 @@
 ## See 🔑 License
 
 # See [LICENSE](http://www.wtfpl.net/) for more info 
-<hr />
+
 
 ```
     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
