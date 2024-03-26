@@ -98,11 +98,14 @@
 <hr />
 
 <p align="center"> 
+ 
 ### True-Open-Source
 
 **_"In real open source, you have the right to control your own destiny."_** _- Linus Torvalds_
 
 **_"Talk is Cheap, Show me the code."_** _- Linus Torvalds_
+
+</p>
 
 <hr />
 
