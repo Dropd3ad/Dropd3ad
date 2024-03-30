@@ -17,7 +17,7 @@
   <br>
   <strong><code>This fool is just another nerd who gets lost in code daily.
    Every project is planned, developed and tested as thoroughly as possible from the ground up. I use my skills Gained through years of Modding and Coding to Create + Test All My Code MYSELF. 
-   One Man Army, Ready For Warfare.</code></strong>
+   One Man Army, At War With Myself.</code></strong>
 </p>
 
    <p align="center">
