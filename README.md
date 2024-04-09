@@ -24,12 +24,10 @@
    Every project is planned, developed and tested as thoroughly as possible from the ground up. I use my skills Gained through years of Modding and Coding to Create + Test All My Code MYSELF. 
    One Man Army, At War With Myself.</code></strong>
 </p>
-
    <p align="center">
       <a href="https://discord.com/invite/pAEG4axbZY">
       <img alt="Discord Join" title="Join the Discord Server" src="https://img.shields.io/discord/1195551702791770165?color=5865F2&style=for-the-badge&labelColor=5e6af0&logo=discord&logoColor=white&label=Join"/></a>
    </p>
-
 </h3>
 
 <hr />
