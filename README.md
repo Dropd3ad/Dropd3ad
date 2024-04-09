@@ -1,3 +1,8 @@
+</p>   
+<p align="center">
+<img src="https://cdn.discordapp.com/attachments/1220635415405531198/1220766752451854406/MOSHED-2024-2-20-5-41-23.gif?ex=662297a2&is=661022a2&hm=f8b3fcd33a3dddd67387424fb3e388c70bd351d826df7425ac519556dc742f75&" width="400" height="325" />
+</p>
+
 <p align="center">
  <strong>DROPD3ADS Dayz Modz + CODE DEVELOPMENT ©
 </p>   
