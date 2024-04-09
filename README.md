@@ -1,7 +1,7 @@
 </p>   
 
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/1220635415405531198/1227227637286703175/DD2.gif?ex=6627a3cd&is=66152ecd&hm=2c48334d2feecd79faee02a97cd0d1ed4e2c7ffaa047a3f9e4516d0f1f8b0764&" width="400" height="325" />
+<img src="https://cdn.discordapp.com/attachments/1220635415405531198/1227228914246615192/MORSECODE.gif?ex=6627a4fd&is=66152ffd&hm=885692f281335a02aa4a5105dfe65820b86702faa765bf3f46d6c8b79c61d242&" width="300" height="325" />
 </p>
 
 <p align="center">
