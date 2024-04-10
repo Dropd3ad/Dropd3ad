@@ -5,7 +5,7 @@
 <p align="center">
 <img src="https://cdn.discordapp.com/attachments/1220635415405531198/1227228914246615192/MORSECODE.gif?ex=6627a4fd&is=66152ffd&hm=885692f281335a02aa4a5105dfe65820b86702faa765bf3f46d6c8b79c61d242&" width="200" height="300" />
 </p>
-#
+</h1>
 <p align="center">
 <img src="https://cdn.discordapp.com/attachments/1220635415405531198/1221032869514706945/scrolling-code.gif?ex=66111a79&is=65fea579&hm=c3440ef84bc7285cbea230181af2a791ef3b9cadec7cc64583023985b4c1048c&" width="400" height="325" />
 </p>
@@ -15,7 +15,8 @@
   <br />  
 # 
 <p align="center">
-  <strong><code>DROPD3ADS Dayz Modz + CODE DEVELOPMENT © (Developer/Modder/Server-Admin) </code></strong>
+  <strong><code>DROPD3ADS Dayz Modz + CODE DEVELOPMENT © 
+                    (Developer/Modder/Server-Admin)</code></strong>
   <br>
   <br>
   <strong><code>This fool is just another nerd who gets lost in code daily.
