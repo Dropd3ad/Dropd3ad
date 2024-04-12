@@ -36,7 +36,7 @@
  <a  href="https://www.youtube.com/channel/UCO5R9Mk8Bf5_9MkS4UQUqOw">YOUTUBE</a>
  <a  href=""></a>
   </p>
-  
+  <strong><code>One Of One</code></strong>
 <h2 align="center"> 
  
  My Stats  
