@@ -13,11 +13,10 @@
   <br />
    <a  href="https://github.com/Dropd3ad/Dropd3ad"><img src="https://cdn.discordapp.com/attachments/1195620869121257502/1213937010981740634/codelife.gif?ex=65f749f1&is=65e4d4f1&hm=741d94397b8076ef4765eeb002bfc09fc36ce6a527e66962e3d24a87ff5cff54&" alt="DROPD3ADS CODING DEVELOPMENT" width="380" /></a>
   <br />  
-# 
+
 <p align="center">
   <strong><code>DROPD3ADS Dayz Modz + CODE DEVELOPMENT © 
                     (Developer/Modder/Server-Admin)</code></strong>
-  <br>
   <br>
   <strong><code>This fool is just another nerd who gets lost in code daily.
    Every project is planned, developed and tested as thoroughly as possible from the ground up. I use my skills Gained through years of Modding and Coding to Create + Test All My Code MYSELF. 
