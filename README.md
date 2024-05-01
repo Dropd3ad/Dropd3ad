@@ -7,7 +7,7 @@
 <img src="https://cdn.discordapp.com/attachments/1220635415405531198/1221032869514706945/scrolling-code.gif?ex=6632b8b9&is=66316739&hm=35efce439a196b36b1348d1658853439797af1a07beac7ab5470f07dc26fbd38&" width="400" height="325" />
 </p>
 
-<br>
+#
  
 <p align="center">
   <strong><code>DROPD3ADS Dayz Modz + CODE DEVELOPMENT © (Developer/Modder/Server-Admin)</code></strong>
