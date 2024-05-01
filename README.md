@@ -147,9 +147,10 @@ ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 
 For more information, please refer to <https://unlicense.org>
-Copyright © 2024 -  License.
 
 ```
+<strong><code>Copyright © 2024 - License</code></strong>
+
 ##
 > [!CAUTION]
 > Making Your Own Code Can Be Very Addicting. Create With Caution ⚠ . 
