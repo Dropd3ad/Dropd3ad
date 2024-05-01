@@ -58,7 +58,7 @@
 ##
   
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1220635415405531198/1220767020438786150/dropdeadiconz.jpg?ex=663269e2&is=66311862&hm=0dee875706233176438dc8f2e2424b45128a9f9a116d9746a110a41487a37b4c&" width="600" height="300"/>
+  <img src="https://cdn.discordapp.com/attachments/1220635415405531198/1220767020438786150/dropdeadiconz.jpg?ex=663269e2&is=66311862&hm=0dee875706233176438dc8f2e2424b45128a9f9a116d9746a110a41487a37b4c&" width="500" height="200"/>
 </div>
 
 <!--CONTRIBUTING-->
@@ -74,7 +74,6 @@
 ```
 
 <hr />
-
 
 
 ### 🛠️ Tech Stack
