@@ -58,7 +58,7 @@
 ##
   
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1220635415405531198/1220767020438786150/dropdeadiconz.jpg?ex=663269e2&is=66311862&hm=0dee875706233176438dc8f2e2424b45128a9f9a116d9746a110a41487a37b4c&" width="500" height="200"/>
+  <img src="https://cdn.discordapp.com/attachments/1220635415405531198/1221348423660470372/XMLFILES.png?ex=66328d1b&is=66313b9b&hm=4860a647a97731d9c95d315b841a2d5fee8d6292ecd4833633fb8cd99acb2fd6&" width="650" height="250"/>
 </div>
 
 <!--CONTRIBUTING-->
