@@ -58,7 +58,7 @@
 ##
   
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1220635415405531198/1221348423660470372/XMLFILES.png?ex=66328d1b&is=66313b9b&hm=4860a647a97731d9c95d315b841a2d5fee8d6292ecd4833633fb8cd99acb2fd6&" width="550" height="175"/>
+  <img src="https://cdn.discordapp.com/attachments/1220635415405531198/1221348423660470372/XMLFILES.png?ex=66328d1b&is=66313b9b&hm=4860a647a97731d9c95d315b841a2d5fee8d6292ecd4833633fb8cd99acb2fd6&" width="520" height="165"/>
 </div>
 
 <!--CONTRIBUTING-->
@@ -147,8 +147,8 @@ IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
 OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
 ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
-- For more information, please refer to [LICENSE](https://unlicense.org)
 ```
+- For more information, please refer to [LICENSE](https://unlicense.org)
 <strong><code>Copyright © 2024 - License</code></strong>
 
 ##
