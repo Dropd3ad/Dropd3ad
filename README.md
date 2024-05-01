@@ -120,7 +120,7 @@
 
 #
 
-# See 🔑 [LICENSE](https://unlicense.org) for more info 
+## See 🔑 [LICENSE](https://unlicense.org) for more info 
 
 ```
 This is free and unencumbered software released into the public domain.
@@ -147,8 +147,8 @@ ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 
 For more information, please refer to <https://unlicense.org>
- 
 Copyright © 2024 -  License.
+
 ```
 ##
 > [!CAUTION]
