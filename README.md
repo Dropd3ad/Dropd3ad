@@ -3,14 +3,15 @@
 [![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=5500&pause=1000&color=00C830&background=000000&vCenter=true&multiline=true&random=true&width=525&height=60&lines=DROPD3ADS+Dayz+Modz+%2B+CODE+DEVELOPMENT%C2%A9)](https://git.io/typing-svg)
  
 </h2>
+
 </p>   
 <p align="center">
 <img src="https://cdn.discordapp.com/attachments/1220635415405531198/1221032869514706945/scrolling-code.gif?ex=6632b8b9&is=66316739&hm=35efce439a196b36b1348d1658853439797af1a07beac7ab5470f07dc26fbd38&" width="400" height="325" />
 </p>
+
 <p align="center">
- <strong><a href="https://discord.com/invite/pAEG4axbZY">
-      <img alt="Discord Join" title="Join the Discord Server" src="https://img.shields.io/discord/1195551702791770165?color=5865F2&style=for-the-badge&labelColor=5e6af0&logo=discord&logoColor=white&label=Join"/></a>
-   </p>
+ <strong><a href="https://discord.com/invite/pAEG4axbZY"><img alt="Discord Join" title="Join the Discord Server" src="https://img.shields.io/discord/1195551702791770165?color=5865F2&style=for-the-badge&labelColor=5e6af0&logo=discord&logoColor=white&label=Join"/></a>
+</p>
 </p>   
   
 </p>  
