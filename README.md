@@ -1,8 +1,8 @@
+
 <p align="center">
- 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=5500&pause=1000&color=00C830&background=000000&vCenter=true&multiline=true&random=true&width=525&height=60&lines=DROPD3ADS+Dayz+Modz+%2B+CODE+DEVELOPMENT%C2%A9)](https://git.io/typing-svg)
  
-</p>
+
 
 </p>   
 
