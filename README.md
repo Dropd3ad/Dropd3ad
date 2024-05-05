@@ -24,7 +24,7 @@
  
  #
  
- <p align="center">
+ <h1 align="center">
   
 [![](https://readme-typing-svg.demolab.com?font=Jersey+20&size=32&duration=5500&pause=1500&color=14DE00F8&background=000000&center=true&random=false&width=435&lines=One+Man+Army...+Ready+For+Warfare.)](https://git.io/typing-svg)
 
