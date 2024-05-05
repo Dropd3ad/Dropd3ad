@@ -23,9 +23,10 @@
    Every project is planned, developed and tested as thoroughly as possible from the ground up. I use my skills Gained through years of Modding and Coding to Create + Test All My Code MYSELF.</code></strong>
  
  #
- 
  <p align="center">
- <strong><code>One Man Army. Ready For Warfare, No Lieutenant.</code></strong>
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+20&size=32&duration=5500&pause=1500&color=14DE00F8&background=000000&center=true&random=false&width=435&lines=One+Man+Army...+Ready+For+Warfare.)](https://git.io/typing-svg)
+
 </p>   
 
 </p>
