@@ -34,19 +34,19 @@
 <p  align="center">BREAKING DAYZ ONE MOD AT A TIME</p>
 
 <p align="center">
- <a  href="https://twitch.tv/dr0pdead_gaming">Twitch</a>
+ <a  href="https://twitch.tv/dr0pdead_gaming">TWITCH</a>
  <a  href="https://discord.gg/9FwYsXeR">DISCORD</a>
  <a  href="https://www.youtube.com/channel/UCO5R9Mk8Bf5_9MkS4UQUqOw">YOUTUBE</a>
  <a  href=""></a>
  </p>
 
 <h2 align="center"> 
-<strong><code>My Stats</code></strong>
+<strong><code>MY STATS</code></strong>
   
   
 <p align="center">
   
-[![](http://github-readme-streak-stats.herokuapp.com?user=Dropd3ad&theme=tokyonight "MY Stats")](https://git.io/streak-stats)
+[![](http://github-readme-streak-stats.herokuapp.com?user=Dropd3ad&theme=tokyonight "MY STATS")](https://git.io/streak-stats)
 
 
 <p align="center">
@@ -193,11 +193,16 @@ OTHER DEALINGS IN THE SOFTWARE.
              | . \| . \| . || . \| . \<__ /| . || . \ | . \| . || | ||_  / |  \  \| . || . \|_  /
              | | ||   /| | ||  _/| | | <_ \|   || | | | | ||   |\   / / /  |     || | || | | / / 
              |___/|_\_\`___'|_|  |___/<___/|_|_||___/ |___/|_|_| |_| /___| |_|_|_|`___'|___//___|
+
+
+
+
+[![](https://readme-typing-svg.demolab.com?font=Jersey+20&size=22&duration=5500&pause=1000&color=00C830&background=000000&vCenter=true&multiline=true&random=true&width=525&height=60&lines=DROPD3ADS+Dayz+Modz)](https://git.io/typing-svg)
+
+
                                                                                                   
 
 ![](https://komarev.com/ghpvc/?username=Dropd3ad&label=PROFILE+STATS)
-
-
 
 
 
