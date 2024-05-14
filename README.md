@@ -195,11 +195,14 @@ OTHER DEALINGS IN THE SOFTWARE.
              |___/|_\_\`___'|_|  |___/<___/|_|_||___/ |___/|_|_| |_| /___| |_|_|_|`___'|___//___|
 
 
+##
 
-
+<h1 align="center"> 
+ 
 [![](https://readme-typing-svg.demolab.com?font=Jersey+20&size=22&duration=5500&pause=1000&color=00C830&background=000000&vCenter=true&multiline=true&random=true&width=525&height=60&lines=DROPD3ADS+Dayz+Modz)](https://git.io/typing-svg)
 
 
+</h2>
                                                                                                   
 
 ![](https://komarev.com/ghpvc/?username=Dropd3ad&label=PROFILE+STATS)
