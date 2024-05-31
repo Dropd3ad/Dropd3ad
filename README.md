@@ -80,7 +80,7 @@
 
 ### 🛠️ Tech Stack
 
- <p align="center">
+<p align="center">
 <img alt="C-Original" title="C-Original" width="40px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img alt="C-Plus-Plus" title="C-Plus-Plus" width="40px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img alt="C-Sharp" title="C-Sharp" width="40px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
@@ -98,7 +98,7 @@
 <img alt="Blender" title="Blender" width="40px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
 <img alt="Gimp" title="Gimp" width="40px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
 <img alt="Photoshop" title="Photoshop" width="40px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
- </p>
+</p>
 
 <hr/>
 
@@ -119,7 +119,7 @@
 <p align="center">
 <a href="https://github.com/Dropd3ad/">
 <img src="https://github-readme-stats.vercel.app/api?username=Dropd3ad&include_all_commits=true&show_icons=true&show=prs_merged,show=prs_merged_percentage&hide=issues,contribs&theme=tokyonight"/>
-</a>
+
 </p>
 
 #
@@ -197,7 +197,7 @@ OTHER DEALINGS IN THE SOFTWARE.
 
 ##
 
-<h1 align="center"> 
+<h2 align="center"> 
  
 [![](https://readme-typing-svg.demolab.com?font=Jersey+20&size=22&duration=5500&pause=1000&color=00C830&background=000000&vCenter=true&multiline=true&random=true&width=525&height=60&lines=DROPD3ADS+Dayz+Modz)](https://git.io/typing-svg)
 
