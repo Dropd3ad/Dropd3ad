@@ -2,12 +2,8 @@
  
 [![](https://readme-typing-svg.demolab.com?font=Jersey+20&size=22&duration=5500&pause=1000&color=00C830&background=000000&vCenter=true&multiline=true&random=true&width=525&height=60&lines=DROPD3ADS+Dayz+Modz+%2B+CODE+DEVELOPMENT%C2%A9)](https://git.io/typing-svg)
  
-</h2>
+</h2> 
 
-</p>   
-<p align="center">
-<img src="https://media.discordapp.net/attachments/1220635415405531198/1221032869514706945/scrolling-code.gif?ex=6637feb9&is=6636ad39&hm=ad7c004d869056669a0ed75882733afc0ba21c4423faaabf89d39b4d2b0da0d1&=" width="400" height="325" />
-</p>
 <p align="center">
  <strong><a href="https://discord.com/invite/pAEG4axbZY"><img alt="Discord Join" title="Join the Discord Server" src="https://img.shields.io/discord/1195551702791770165?color=5865F2&style=for-the-badge&labelColor=5e6af0&logo=discord&logoColor=white&label=Join"/></a>
 </p>  
@@ -20,7 +16,9 @@
   <strong><code>DROPD3ADS Dayz Modz + CODE DEVELOPMENT © (Developer/Modder/Server-Admin)</code></strong>
   <br>
   <strong><code>This fool is just another nerd who gets lost in code daily.</code></strong>
- 
+ <p align="center">
+ <strong><a href="https://discord.com/invite/pAEG4axbZY"><img alt="Discord Join" title="Join the Discord Server" src="https://img.shields.io/discord/1195551702791770165?color=5865F2&style=for-the-badge&labelColor=5e6af0&logo=discord&logoColor=white&label=Join"/></a>
+</p>  
  #
  
  <h1 align="center">
