@@ -3,11 +3,6 @@
 [![](https://readme-typing-svg.demolab.com?font=Jersey+20&size=22&duration=5500&pause=1000&color=00C830&background=000000&vCenter=true&multiline=true&random=true&width=525&height=60&lines=DROPD3ADS+Dayz+Modz+%2B+CODE+DEVELOPMENT%C2%A9)](https://git.io/typing-svg)
  
 </h2> 
-
-<p align="center">
- <strong><a href="https://discord.com/invite/pAEG4axbZY"><img alt="Discord Join" title="Join the Discord Server" src="https://img.shields.io/discord/1195551702791770165?color=5865F2&style=for-the-badge&labelColor=5e6af0&logo=discord&logoColor=white&label=Join"/></a>
-</p>  
-  
 </p>  
  
 <p align="center">
