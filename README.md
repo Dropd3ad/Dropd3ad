@@ -9,17 +9,16 @@
 </p>  
   
 </p>  
-
-#
  
 <p align="center">
   <strong><code>DROPD3ADS Dayz Modz + CODE DEVELOPMENT © (Developer/Modder/Server-Admin)</code></strong>
   <br>
   <strong><code>This fool is just another nerd who gets lost in code daily.</code></strong>
+ 
  <p align="center">
  <strong><a href="https://discord.com/invite/pAEG4axbZY"><img alt="Discord Join" title="Join the Discord Server" src="https://img.shields.io/discord/1195551702791770165?color=5865F2&style=for-the-badge&labelColor=5e6af0&logo=discord&logoColor=white&label=Join"/></a>
 </p>  
- #
+
  
  <h1 align="center">
   
@@ -37,7 +36,7 @@
  <a  href=""></a>
  </p>
 
-### 🛠️ Tech Stack
+<p  align="center">### 🛠️ Tech Stack</p>
 
 <p align="center">
 <img alt="C-Original" title="C-Original" width="40px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
