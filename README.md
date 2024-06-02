@@ -8,18 +8,18 @@
 <p align="center">
   <strong><code>DROPD3ADS Dayz Modz + CODE DEVELOPMENT © (Developer/Modder/Server-Admin)</code></strong>
   <br>
-  <strong><code>This fool is just another nerd who gets lost in code daily.</code></strong>
+  <strong><code>This Fool Is Just another Nerd Who Gets Lost In Code Daily.</code></strong>
  
  <p align="center">
  <strong><a href="https://discord.com/invite/pAEG4axbZY"><img alt="Discord Join" title="Join the Discord Server" src="https://img.shields.io/discord/1195551702791770165?color=5865F2&style=for-the-badge&labelColor=5e6af0&logo=discord&logoColor=white&label=Join"/></a>
-</p>  
+ </p>  
 
  
- <h1 align="center">
-  
-[![](https://readme-typing-svg.demolab.com?font=Jersey+20&size=32&duration=5500&pause=1500&color=14DE00F8&background=000000&center=true&random=false&width=435&lines=One+Man+Army...+Ready+For+Warfare.)](https://git.io/typing-svg)
+<h2 align="center"> 
+ 
+[![](https://readme-typing-svg.demolab.com?font=Jersey+20&size=22&duration=5500&pause=1000&color=00C830&background=000000&vCenter=true&multiline=true&random=true&width=525&height=60&lines=DROPD3ADS+Dayz+Modz)](https://git.io/typing-svg)
 
-</h2>   
+</h2>
 
 
 <p  align="center">BREAKING DAYZ ONE MOD AT A TIME</p>
@@ -53,9 +53,8 @@
 <img alt="Photoshop" title="Photoshop" width="40px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 </p>
 
-<h2 align="center"> 
+<h3 align="center"> 
 <strong><code>MY STATS</code></strong>
-  
   
 <p align="center">
   
@@ -192,7 +191,6 @@ OTHER DEALINGS IN THE SOFTWARE.
 <h2 align="center"> 
  
 [![](https://readme-typing-svg.demolab.com?font=Jersey+20&size=22&duration=5500&pause=1000&color=00C830&background=000000&vCenter=true&multiline=true&random=true&width=525&height=60&lines=DROPD3ADS+Dayz+Modz)](https://git.io/typing-svg)
-
 
 </h2>
                                                                                                   
