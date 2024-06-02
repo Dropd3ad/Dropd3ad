@@ -29,7 +29,6 @@
 
 </h2>   
 
-<hr/>
 
 <p  align="center">BREAKING DAYZ ONE MOD AT A TIME</p>
 
@@ -109,6 +108,8 @@
 **_"In real open source, you have the right to control your own destiny."_** _- Linus Torvalds_
 
 **_"Talk is Cheap, Show me the code."_** _- Linus Torvalds_
+
+**_"Code never lies, comments sometimes do."_** _-DROPD3AD_
 
 </p>
 
@@ -193,6 +194,7 @@ OTHER DEALINGS IN THE SOFTWARE.
              | . \| . \| . || . \| . \<__ /| . || . \ | . \| . || | ||_  / |  \  \| . || . \|_  /
              | | ||   /| | ||  _/| | | <_ \|   || | | | | ||   |\   / / /  |     || | || | | / / 
              |___/|_\_\`___'|_|  |___/<___/|_|_||___/ |___/|_|_| |_| /___| |_|_|_|`___'|___//___|
+
 
 
 ##
