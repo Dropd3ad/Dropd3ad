@@ -31,7 +31,7 @@
  <a  href=""></a>
  </p>
 
-<p  align="center">### 🛠️ Tech Stack</p>
+<p  align="center"><strong>🛠️ Tech Stack<strong></p>
 
 <p align="center">
 <img alt="C-Original" title="C-Original" width="40px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -77,7 +77,7 @@
 <!--CONTRIBUTING-->
 <p align="center">
 <strong>Contributions are what make the Open Source Community such an amazing place to be learn, inspire, and create. Any contributions you make are greatly appreciated
-<strong>
+</strong>
 </p>
 
 ```
