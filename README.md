@@ -67,7 +67,7 @@
   </a>
 </p>
 
-##
+<hr/>
   
 <div align="center">
   <img src="https://cdn.discordapp.com/attachments/1220635415405531198/1221348423660470372/XMLFILES.png?ex=665cbd1b&is=665b6b9b&hm=8785131fa0636e2f1398dc641d8e2a359ae8bcac8e95bc5031a0da8648bd6cc2&" width="520" height="140"/>
