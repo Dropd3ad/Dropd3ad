@@ -55,11 +55,11 @@
 </p>
 
 <h3 align="center"> 
-<strong><code>MY STATS</code></strong>
+<strong><code>STATS</code></strong>
   
 <p align="center">
   
-[![](http://github-readme-streak-stats.herokuapp.com?user=Dropd3ad&theme=tokyonight "MY STATS")](https://git.io/streak-stats)
+[![](http://github-readme-streak-stats.herokuapp.com?user=Dropd3ad&theme=tokyonight "MY-STATS")](https://git.io/streak-stats)
 
 
 <p align="center">
