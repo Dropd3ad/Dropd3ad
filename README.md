@@ -63,7 +63,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/Dropd3ad/">
+  <a href="https://github.com/Dropd3ad">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dropd3ad&theme=tokyonight" />
   </a>
 </p>
