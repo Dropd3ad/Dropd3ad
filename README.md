@@ -65,7 +65,7 @@
 <hr/>
   
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1220635415405531198/1221348423660470372/XMLFILES.png?ex=665cbd1b&is=665b6b9b&hm=8785131fa0636e2f1398dc641d8e2a359ae8bcac8e95bc5031a0da8648bd6cc2&" width="520" height="140"/>
+  <img src="https://cdn.discordapp.com/attachments/1220635415405531198/1227228963315777616/codegif.gif?ex=666f7ec9&is=666e2d49&hm=4479a9161c6972621e92d86635ce88630c6891467a57ad9d53f8f700228ee75e&" width="500" height="150"/>
 </div>
 
 <!--CONTRIBUTING-->
