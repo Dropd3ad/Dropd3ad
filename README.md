@@ -188,7 +188,7 @@ OTHER DEALINGS IN THE SOFTWARE.
 
 <h2 align="center"> 
  
-[![](https://readme-typing-svg.demolab.com?font=Jersey+20&size=22&duration=5300&pause=1000&color=00C830&background=000000&vCenter=true&multiline=true&random=true&width=525&height=60&lines=DROPD3ADS+Dayz+Modz)](https://git.io/typing-svg)
+[![](https://readme-typing-svg.demolab.com?font=Jersey+20&size=22&duration=5300&pause=1000&color=00C830&background=000000&vCenter=true&multiline=true&random=true&width=325&height=50&lines=DROPD3ADS+Dayz+Modz)](https://git.io/typing-svg)
 
 </h2>                                                                                              
 
