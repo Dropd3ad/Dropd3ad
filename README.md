@@ -14,14 +14,6 @@
  <strong><a href="https://discord.com/invite/pAEG4axbZY"><img alt="Discord Join" title="Join the Discord Server" src="https://img.shields.io/discord/1195551702791770165?color=5865F2&style=for-the-badge&labelColor=5e6af0&logo=discord&logoColor=white&label=Join"/></a>
  </p>  
 
- 
-<h2 align="center"> 
- 
-[![](https://readme-typing-svg.demolab.com?font=Jersey+20&size=22&duration=5500&pause=1000&color=00C830&background=000000&vCenter=true&multiline=true&random=true&width=525&height=60&lines=DROPD3ADS+Dayz+Modz)](https://git.io/typing-svg)
-
-</h2>
-
-
 <p  align="center"><strong><code>BREAKING DAYZ ONE MOD AT A TIME</code></strong></p>
 
 <p align="center">
@@ -189,7 +181,12 @@ OTHER DEALINGS IN THE SOFTWARE.
 
 ##
 
-                                                                                                  
+
+<h2 align="center"> 
+ 
+[![](https://readme-typing-svg.demolab.com?font=Jersey+20&size=22&duration=5500&pause=1000&color=00C830&background=000000&vCenter=true&multiline=true&random=true&width=425&height=60&lines=DROPD3ADS+Dayz+Modz)](https://git.io/typing-svg)
+
+</h2>                                                                                              
 
 ![](https://komarev.com/ghpvc/?username=Dropd3ad&label=PROFILE+STATS)
 
