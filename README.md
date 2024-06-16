@@ -23,7 +23,7 @@
  <a  href=""></a>
  </p>
  
-</h3> 
+#
 
 <p  align="center"><strong>🛠️ Tech Stack</strong></p>
 
@@ -101,13 +101,6 @@
 
 ##
 
-<p align="center">
-<a href="https://github.com/Dropd3ad">
-<img src="https://github-readme-stats.vercel.app/api?username=Dropd3ad&include_all_commits=true&show_icons=true&show=prs_merged,show=prs_merged_percentage&hide=issues,contribs&theme=tokyonight"/>
-
-</p>
-
-#
 
 ## See 🔑 [LICENSE](https://unlicense.org) for more info 
 
