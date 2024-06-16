@@ -23,9 +23,9 @@
  <a  href=""></a>
  </p>
  
-</h2> 
+</h3> 
 
-<p  align="center"><strong>🛠️ Tech Stack<strong></p>
+<p  align="center"><strong>🛠️ Tech Stack</strong></p>
 
 <p align="center">
 <img alt="C-Original" title="C-Original" width="40px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
