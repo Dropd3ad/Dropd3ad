@@ -22,7 +22,7 @@
 </h2>
 
 
-<p  align="center">BREAKING DAYZ ONE MOD AT A TIME</p>
+<p  align="center"><strong><code>BREAKING DAYZ ONE MOD AT A TIME</code></strong></p>
 
 <p align="center">
  <a  href="https://twitch.tv/dr0pdead_gaming">TWITCH</a>
