@@ -66,7 +66,7 @@
 <hr/>
   
 <div align="center">
- <div class="tenor-gif-embed" data-postid="19687446" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/computer-code-gif-19687446">Computer Code GIF</a>from <a href="https://tenor.com/search/computer-gifs">Computer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <img src="https://tenor.com/view/computer-code-gif-19687446" width="500" height="150"/>
 </div>
 
 <!--CONTRIBUTING-->
