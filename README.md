@@ -66,7 +66,7 @@
 <hr/>
   
 <div align="center">
-  <img src="https://discord.com/channels/1195551702791770165/1220635415405531198/1255037916443578418" width="500" height="150"/>
+ <div class="tenor-gif-embed" data-postid="19687446" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/computer-code-gif-19687446">Computer Code GIF</a>from <a href="https://tenor.com/search/computer-gifs">Computer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
 
 <!--CONTRIBUTING-->
