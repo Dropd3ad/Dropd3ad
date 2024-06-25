@@ -1,6 +1,6 @@
 <h1 align="center"> 
  
-[![](https://readme-typing-svg.demolab.com?font=Jersey+20&size=22&duration=5500&pause=1000&color=00C830&background=000000&vCenter=true&multiline=true&random=true&width=500&height=60&lines=DROPD3ADS+Dayz+Modz+%2B+CODE+DEVELOPMENT%C2%A9)](https://git.io/typing-svg)
+[![](https://readme-typing-svg.demolab.com?font=Jersey+20&size=22&duration=5500&pause=1000&color=00C830&background=000000&vCenter=true&multiline=true&random=true&width=490&height=60&lines=DROPD3ADS+Dayz+Modz+%2B+CODE+DEVELOPMENT%C2%A9)](https://git.io/typing-svg)
  
 </h2> 
 </p>  
@@ -66,7 +66,7 @@
 <hr/>
   
 <div align="center">
-  <img src="https://tenor.com/view/computer-code-gif-19687446" width="500" height="150"/>
+  <img src="https://discord.com/channels/1195551702791770165/1220635415405531198/1255037916443578418" width="500" height="150"/>
 </div>
 
 <!--CONTRIBUTING-->
