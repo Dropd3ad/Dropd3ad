@@ -66,7 +66,7 @@
 <hr/>
   
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1220635415405531198/1227228963315777616/codegif.gif?ex=666f7ec9&is=666e2d49&hm=4479a9161c6972621e92d86635ce88630c6891467a57ad9d53f8f700228ee75e&" width="500" height="150"/>
+  <img src="https://tenor.com/view/computer-code-gif-19687446" width="500" height="150"/>
 </div>
 
 <!--CONTRIBUTING-->
