@@ -47,6 +47,7 @@
 <img alt="Gimp" title="Gimp" width="40px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
 <img alt="Photoshop" title="Photoshop" width="40px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 <img alt="Bash" title="Bash" width="45px" style="margin-right:100px;" src="https://devicon-website.vercel.app/api/bash/original.svg" />
+<img alt="Electron" title="Bash" width="40px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" />
 </p>
 
 <h3 align="center"> 
@@ -66,7 +67,7 @@
 <hr/>
   
 <div align="center">
-  <img src="https://tenor.com/view/computer-code-gif-19687446" width="500" height="150"/>
+  <img src="https://cdn.discordapp.com/attachments/1220635415405531198/1235898778637045780/IMG_5139.jpg?ex=6681da2e&is=668088ae&hm=9b502c8da694053039a908e37a84b56bda24ce0008b002004758cbba4bc5b7fd&" width="500" height="150"/>
 </div>
 
 <!--CONTRIBUTING-->
