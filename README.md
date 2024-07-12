@@ -47,7 +47,7 @@
 <img alt="Gimp" title="Gimp" width="40px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
 <img alt="Photoshop" title="Photoshop" width="40px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 <img alt="Bash" title="Bash" width="45px" style="margin-right:100px;" src="https://devicon-website.vercel.app/api/bash/original.svg" />
-<img alt="Electron" title="Bash" width="45px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" />
+<img alt="Electron" title="Electron" width="45px" style="margin-right:100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" />
 </p>
 
 <h3 align="center"> 
