@@ -8,7 +8,7 @@
 <p align="center">
   <strong><code>DROPD3ADS Dayz Modz + CODE DEVELOPMENT © (Developer/Modder/Server-Admin)</code></strong>
   <br>
-  <strong><code>This Fool Is Just another Nerd Who Gets Lost In Code Daily.</code></strong>
+  <strong><code>This Fool Is Just another Nerd Who Gets Lost In Code Daily</code></strong>
  
  <p align="center">
  <strong><a href="https://discord.com/invite/pAEG4axbZY"><img alt="Discord Join" title="Join the Discord Server" src="https://img.shields.io/discord/1195551702791770165?color=5865F2&style=for-the-badge&labelColor=5e6af0&logo=discord&logoColor=white&label=Join"/></a>
