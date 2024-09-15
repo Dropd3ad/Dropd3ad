@@ -69,7 +69,7 @@
 <hr/>
   
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1220635415405531198/1284776164228988949/DROPD3AD6.png?ex=66e7dc8b&is=66e68b0b&hm=83d97a37c791088b7c3516b8c6af640a2e7dfbcf6a09a4530684deffbc9d0bbd&" width="380" height="175"/>
+  <img src="https://cdn.discordapp.com/attachments/1220635415405531198/1284776164228988949/DROPD3AD6.png?ex=66e7dc8b&is=66e68b0b&hm=83d97a37c791088b7c3516b8c6af640a2e7dfbcf6a09a4530684deffbc9d0bbd&" width="360" height="170"/>
 </div>
 
 <!--CONTRIBUTING-->
